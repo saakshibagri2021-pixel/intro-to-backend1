@@ -10,7 +10,7 @@ A REST API project using Node.js, Express.js, MongoDB Atlas and Mongoose.
 - JSON request/response handling, input validation and error responses
 
 ## Requirements
-- Node.js 18 or later, npm, MongoDB Atlas account and Postman
+- Node.js 20.19 or later (recommended: Node.js 22), npm, MongoDB Atlas account and Postman
 
 ## Setup
 1. Clone this repository and open the project folder.
